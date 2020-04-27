@@ -1,0 +1,10 @@
+{
+  "expoServerNgrokUrl": "https://rv-tjr.longas.calculadora.exp.direct",
+  "packagerNgrokUrl": "https://packager.rv-tjr.longas.calculadora.exp.direct",
+  "ngrokPid": 6936,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerPort": 19000,
+  "devToolsPort": 19002,
+  "webpackServerPort": null
+}
